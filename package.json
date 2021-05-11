@@ -1,0 +1,22 @@
+{
+  "name": "freedomdao-gov",
+  "version": "1.0.0",
+  "description": "The smart contracts for the Freedom DAO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedom-dao/freedom-gov-contracts.git"
+  },
+  "author": "Freedom DAO",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/freedom-dao/freedom-gov-contracts/issues"
+  },
+  "homepage": "https://github.com/freedom-dao/freedom-gov-contracts#readme",
+  "dependencies": {
+    "hardhat": "^2.2.1"
+  }
+}
